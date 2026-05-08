@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🧐 Hello Hello Hello
+
+Student at Toronto Metropolitan University studying Computer Engineering interested in systems and hardware.
+
+Right now I'm building projects in graphics programming and exploring development with microcontrollers.
+
 
 <!--
 **AadilPB/AadilPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
