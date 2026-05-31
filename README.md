@@ -2,7 +2,7 @@
 
 Student at Toronto Metropolitan University studying Computer Engineering interested in systems and hardware.
 
-Right now I'm building projects in graphics programming and exploring development with microcontrollers.
+Right now I'm building projects in graphics programming and HDL design.
 
 
 <!--
